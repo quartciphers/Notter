@@ -5,7 +5,7 @@ import Note from "./Note";
 import notes from "../notes";
 
 
-
+//////////////////////////////// Main Component That Renders All other Components
 
 export default function App() {
   return (

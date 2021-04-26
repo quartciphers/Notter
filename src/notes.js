@@ -26,3 +26,5 @@ const notes = [
 ];
 
 export default notes;
+
+// JavaScript Object for Note Component 
